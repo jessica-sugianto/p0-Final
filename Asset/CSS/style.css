@@ -1,0 +1,141 @@
+body {
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    text-align: center;
+    font-size: 75px;   
+    color: mediumblue;
+}
+
+h2 {
+    text-align: center;
+    color: mediumblue;
+}
+
+img{
+    width: 100px;
+}
+
+.nextPage{
+    width: 90%;
+    text-align: right;
+    margin-top: 450px;
+}
+
+.content {
+    margin: 125px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.validasi_name{
+    color: red;
+}
+
+.music{
+    margin-top: 5px;
+    margin-left: 550px;
+}
+
+.jawaban{
+    margin-top: 30px;
+}
+
+.A{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    display: inline;
+    margin-top: 15px;
+    margin-left: 200px;
+    height: 100px;
+    padding-top: 80px;
+    background-size: 100%;
+    background-color: lightskyblue;
+    background-repeat: no-repeat;
+    width: 25%;
+    text-align: center;
+    color: darkblue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.B{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    display: inline;
+    margin-top: 15px;
+    margin-left: 200px;
+    height: 100px;
+    padding-top: 80px;
+    background-size: 100%;
+    background-color: lightgreen;
+    width: 25%;
+    text-align: center;
+    color: darkblue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.C{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    display: inline;
+    margin-top: 15px;
+    margin-left: 200px;
+    height: 100px;
+    padding-top: 90px;
+    background-size: 100%;
+    background-color: lavenderblush;
+    width: 25%;
+    text-align: center;
+    color: darkblue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.D{
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    display: inline;
+    margin-top: 15px;
+    margin-left: 200px;
+    height: 100px;
+    padding-top: 90px;
+    background-size: 100%;
+    background-color: lightgoldenrodyellow;
+    width: 25%;
+    text-align: center;
+    color: darkblue;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.name{
+    border-bottom: 1px solid black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    background: transparent;
+    font-size: 25px;
+    width: 500px;
+    height: 25px;
+}
+
+.submit{
+    width: 80px;
+}
+
+#score{
+    font-size: 10em;
+    padding-top: 80px;
+    margin-top: 100px;
+    margin-left: 450px;
+    text-align: center;
+    width: 400px;
+    height: 290px;
+    border-radius: 500px;
+    border: 1px solid yellow;
+    background-color: yellow;
+}
